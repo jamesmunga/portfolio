@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+body{
+    font-size: 1.2em;
+}
+h4{
+    font-family: "bad-script";
+    
+}
+nav{
+    background: #41dcd9;
+    font-weight: 300;
+    line-height: 3em;
+    word-spacing: 7px;
+}
+nav a{
+    color: #fff;
+
+}
+nav a:hover{
+    display: ;
+    color:blueviolet;
+    
+}
+header{
+    background: #c4b403;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    background: #3a0dc1;
+}
+footer ul
+{
+    list-style-type: none;
+    text-align: center;
+    text-decoration: none;
+}
+footer a{
+    color:#fff;
+    justify-content: center;
+    align-items: center;
+    word-spacing:2px ;
+}
+
+footer p{
+    color: #fff;
+    text-align: center;
+}
