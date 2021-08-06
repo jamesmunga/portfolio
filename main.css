@@ -46,6 +46,7 @@ header {
 }
 header img{
     float: right;
+     width: 50vw;
     box-shadow:  0 0 20px rgba(0, 0, 0, 0.5);
     opacity: 0px;
 }
