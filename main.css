@@ -11,9 +11,9 @@ body{
 }
 .navbar {
     background: linear-gradient(45deg,
-    #878787 ,
+   #d0de21 ,
     #ff9a00 ,
-    #d0de21 
+     #878787  
    );
     line-height: 3rem;
     display: flex;
@@ -47,8 +47,6 @@ header {
 header img{
     float: right;
      width: 50vw;
-    box-shadow:  0 0 20px rgba(0, 0, 0, 0.5);
-    opacity: 0px;
 }
 a{
     text-decoration: none;
@@ -59,9 +57,9 @@ main{
     justify-content: space-between;
     align-items: ;
     background: linear-gradient(45deg,
-    #d0de21 ,
+    #3fdad8 ,
 #4fdc4f ,
-#3fdad8 );
+  #d0de21);
 
 } 
 main .featured-projects{
